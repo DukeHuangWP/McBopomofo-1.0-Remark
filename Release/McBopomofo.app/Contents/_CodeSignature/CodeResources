@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		TyzH94Vstd+RtsVFrGOCwMgnKNw=
+		+zmCU6i8b7kQRKAWOODDIHI4mrU=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Resources/data-plain-bpmf.txt</key>
 		<data>
-		EoMhkwnUxktGCY/BwFFEIzCTM8c=
+		56JYC2WcA8K2J4ZQUP+VPcEYJBM=
 		</data>
 		<key>Resources/data.txt</key>
 		<data>
-		KX3fNOLIu5xWB570lBmfbSONglc=
+		0mbVEby5eBR8BX96vz1qO650njE=
 		</data>
 		<key>Resources/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -112,11 +112,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TyzH94Vstd+RtsVFrGOCwMgnKNw=
+			+zmCU6i8b7kQRKAWOODDIHI4mrU=
 			</data>
 			<key>hash2</key>
 			<data>
-			I429DslieuaFFDF+tfo0AbuQSjlOkV6ULfVmsSK5fUM=
+			dEIwpWo3ESuSmj6OF6ZbA3hqlQdscLDr+SGBOg8o/KQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
@@ -178,22 +178,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EoMhkwnUxktGCY/BwFFEIzCTM8c=
+			56JYC2WcA8K2J4ZQUP+VPcEYJBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			zoxTY20zO/kdhSbQGNONW1TnLClEvoCuNQrAq+mPUgU=
+			W/0jHAJCmHJHqyAldRI9rGL0Q4A1ssg8S1NYy0J6SeI=
 			</data>
 		</dict>
 		<key>Resources/data.txt</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KX3fNOLIu5xWB570lBmfbSONglc=
+			0mbVEby5eBR8BX96vz1qO650njE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fuDokwSQ0f31mrTrbrwgaI3SPvz6FNWcc1g83YnSNwE=
+			pMaZtZiOFs/PZc32e+HxFe5iniEFrNg1wfl60OXsm0w=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/InfoPlist.strings</key>
