@@ -20,3 +20,7 @@
 ## Continuous Integration
 
 我們使用 Travis-CI [![Build Status](https://travis-ci.org/openvanilla/McBopomofo.svg?branch=master)](https://travis-ci.org/openvanilla/McBopomofo) 作為雲端持續整合工具。
+
+
+## 開發筆記
+XCode編譯完後預設目錄: /Users/Username/Library/Developer/Xcode/DerivedData/McBopomofo-XXXX/Build/Products/Debug
